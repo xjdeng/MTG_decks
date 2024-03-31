@@ -5,18 +5,19 @@ Commander:
 
 Main: 
 1 Furnace Host Charger
+1 Commercial District
 1 Growing Rites of Itlimoc
 1 Rootrider Faun
-1 Invigorating Hot Spring
 1 Itzquinth, Firstborn of Gishath
 1 Fertilid's Favor
-16 Forest
+15 Forest
 1 Over the Edge
 1 Trumpeting Carnosaur
 1 Glimpse the Core
 1 Kami of Whispered Hopes
 1 Rugged Highlands
 1 Shower of Arrows
+1 Branch of Vitu-Ghazi
 1 Scampering Surveyor
 1 Friendly Rivalry
 1 Zoyowa's Justice
@@ -26,11 +27,10 @@ Main:
 1 Virtue of Strength
 1 Brass's Tunnel-Grinder
 1 Koth, Fire of Resistance
-1 Feral Encounter
-1 Sunbird Standard
 1 Fling
 1 Return from the Wilds
 1 Ixalli's Lorekeeper
+1 Anzrag, the Quake-Mole
 1 Volcanic Spite
 1 Stormkeld Vanguard
 1 Triumphant Chomp
@@ -41,10 +41,10 @@ Main:
 1 Rising of the Day
 1 The Weatherseed Treaty
 1 Tyvar's Stand
+1 Network Terminal
 1 Portent Tracker
 1 Gimli's Axe
 1 Tyrranax Rex
-1 Carnivorous Canopy
 1 Intrepid Paleontologist
 1 Goreclaw, Terror of Qal Sisma
 1 Paladin of Predation
@@ -56,14 +56,16 @@ Main:
 1 Citanul Stalwart
 1 Roaming Throne
 1 Ravenous Sailback
-15 Mountain
+1 They Went This Way
+14 Mountain
 1 Phyrexian Atlas
 1 Deathbloom Gardener
 1 Seismic Monstrosaur
 1 Arcane Signet
 1 Elven Chorus
+1 Break Out
 1 Inherited Envelope
-1 Shatter the Source
+1 Commander's Sphere
 1 Cast into the Fire
 1 The Hunter Maze
 1 Dowsing Device
@@ -74,4 +76,9 @@ Main:
 1 Invasion of Zendikar
 1 Kogla and Yidaro
 1 Unnatural Restoration
+
+Sideboard: 
+1 Carnivorous Canopy
+1 Shatter the Source
+1 Invigorating Hot Spring
 
